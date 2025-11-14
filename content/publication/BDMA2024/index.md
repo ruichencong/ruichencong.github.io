@@ -20,7 +20,7 @@ publishDate: "2025-01-28"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Big Data Mining and Analytics, vol. 8, no. 2, pp. 447-457"
+publication: "Big Data Mining and Analytics, vol. 8, no. 2, pp. 447-457"
 publication_short: ""
 
 abstract: The identification of latent risk factors that can induce to health risks or an abnormal status is an important task in healthcare data analyses. In recent years, health analyses based on neural network models have been applied widely. However, such analysis processes are blackbox and the results lack explainability. Some approaches by constructing a domain model may tackle these issues. However, domain knowledge from an expert is required. In this study, we propose an exploratory and interpretable approach to estimating latent health risk factors without relying on domain knowledge, in which feature selection and causal discovery are used to construct a domain model for uncovering complex relationships in health and medical data. An evaluation experiment conducted on two datasets by comparing the proposed approach with four baselines demonstrated that the proposed approach outperformed the baselines in terms of model fitness. Furthermore, the number of model parameters in our method was smaller than that in the baselines, which reduced model complexity. Moreover, the analysis process of the proposed approach was visible and explainable, which improved the interpretability of the analysis processes.

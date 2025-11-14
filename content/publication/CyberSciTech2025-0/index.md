@@ -32,7 +32,7 @@ abstract:
 
 tags:
 - Health Analytics
-featured: false
+featured: true
 
 # links:
 # - name: ""

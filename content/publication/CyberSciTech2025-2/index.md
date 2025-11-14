@@ -12,7 +12,7 @@ authors:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "to appear"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,7 +20,7 @@ publishDate: "to appear"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *2025 10th IEEE Conference on Cyber Science and Technology Congress"
+publication: "In *2025 10th IEEE Conference on Cyber Science and Technology Congress, to appear"
 publication_short: ""
 
 abstract: 

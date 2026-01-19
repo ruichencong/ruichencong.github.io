@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am an Assistant Professor at the Faculty of Human Sciences, Waseda University, Japan. My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being. If you are interested in my research, please feel free to contact me. I am happy to communicate in Japanese, Chinese, or English!
+Hello! I am an Assistant Professor at the Department of Human Informatics and Cognitive Sciences, Faculty of Human Sciences, Waseda University, Japan. My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being. If you are interested in my research, please feel free to contact me. I am happy to communicate in Japanese, Chinese, or English!
 
 ## Research Interests
 
@@ -31,15 +31,15 @@ Hello! I am an Assistant Professor at the Faculty of Human Sciences, Waseda Univ
 
 ## Education
 
-- **[Mar, 2025]** Ph.D (Human Sciences) Waseda University
+- **[Mar, 2025]** Ph.D (Human Sciences), Waseda University
 
 Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by Prof. Qun Jin, co-supervised by Prof. Shoji Nishimura and Prof. Atsushi Ogihara. My doctoral program is supported by the Japan Science and Technology Agency Support for Pioneering Research Initiated by the Next Generation (SPRING) for three years.
 
-- **[Mar, 2022]** M.S. (Human Sciences) Waseda University
+- **[Mar, 2022]** M.S. (Human Sciences), Waseda University
 
 Thesis on "Individual-Initiated Access Control for Data Sharing with Blockchain". Supervised by Prof. Qun Jin.
 
-- **[Mar, 2020]** B.S. (Human Sciences) Waseda University
+- **[Mar, 2020]** B.S. (Human Sciences), Waseda University
 
 Thesis on "Investigating Cognitive Load in Multimedia Presentation Using an Eye Tracker". Supervised by Prof. Qun Jin.
 

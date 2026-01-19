@@ -4,12 +4,13 @@ main:
     authors: <strong><u>R. Cong</u></strong>, S. Nishimura, A. Ogihara and Q. Jin
     conference_short: BDMA
     conference: Big Data Mining and Analytics, 2025, vol.8, No.2, pp. 447-457.
-    pdf: 10.26599/BDMA.2024.9020081
+    pdf: https://doi.org/10.26599/BDMA.2024.9020081
   
   - title: "Multiple Feature Selection Based on an Optimization Strategy for Causal Analysis of Health Data"
     authors: <strong><u>R. Cong</u></strong>, O. Deng, S. Nishimura, A. Ogihara and Q. Jin
     conference_short: HISC
     conference: Health Information Sciences and System, vol.12, No. 52, 2024.
+    pdf: https://doi.org/10.1007/s13755-024-00312-8
 
   - title: "A Two-Stage Discovery-and-Validation Framework for Robust Causal Inference of Multivariate Health Data"
     authors: <strong><u>R. Cong</u></strong>, O. Deng, H. Yu, S. Nishimura, A. Ogihara and Q. Jin
@@ -55,6 +56,7 @@ main:
     authors: Y. Pan, <strong><u>R. Cong</u></strong>, J. Wang, Q, Jin
     conference_short: HCII 2025
     conference: HCI International 2025 - Late Breaking Papers. HCII 2025. Lecture Notes in Computer Science, vol 16344, pp. 404-414.
+    pdf: https://doi.org/10.1007/978-3-032-13174-4_26
 
   - title: "Analyzing Lifestyle and Behavior with Causal Discovery in Health Data from Wearable Devices and Self-Assessments"
     authors: J. Zhang, <strong><u>R. Cong</u></strong>, O. Deng, Y. Li, K. Lam and Q. Jin

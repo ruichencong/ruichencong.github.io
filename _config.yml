@@ -1,6 +1,3 @@
-url: "https://ruichencong.github.io"
-baseurl: ""
-
 # Basic Information 
 title: Ruichen Cong
 position: Assistant Professor
@@ -9,9 +6,9 @@ email: rcong [at] aoni.waseda.jp
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Ruichen Cong
-# description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-# canonical: https://minimal-light-theme.yliu.me/
+keywords: ruichencong, Ruichen Cong
+description: This is a academic personal homepage for Ruichen Cong.
+canonical: https://ruichencong.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.

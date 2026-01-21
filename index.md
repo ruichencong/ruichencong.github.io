@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am an Assistant Professor at the Department of Human Informatics and Cognitive Sciences, Faculty of Human Sciences, Waseda University, Japan. My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being. If you are interested in my research, please feel free to contact me. I am happy to communicate in Japanese, Chinese, or English!
+Hello! I am an Assistant Professor at the Department of Human Informatics and Cognitive Sciences, Advanced Research Center for Human Sciences, Faculty of Human Sciences, Waseda University, Japan. My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being. If you are interested in my research, please feel free to contact me. I am happy to communicate in Japanese, Chinese, or English!
 
 ## Research Interests
 
@@ -16,8 +16,6 @@ Hello! I am an Assistant Professor at the Department of Human Informatics and Co
 - Metaverse/VR
 
 ## Acadamic Experience
-
-- **[Apr. 2025 - Present]** Assistant Professor, Advanced Research Center for Human Sciences, Waseda University, Japan
 
 - **[Apr. 2025 - Present]** Assistant Professor, Faculty of Human Sciences, Waseda University, Japan
 

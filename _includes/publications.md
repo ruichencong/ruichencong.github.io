@@ -1,6 +1,6 @@
 ## Publications
 
-<ol style="margin:0 0 5px;">
+<ul style="margin:0 0 5px;">
   <li><autocolor><strong><u>R. Cong</u></strong>, S. Nishimura, A. Ogihara and Q. Jin, "Exploratory and Interpretable Approach to Estimating Latent Health Risk Factors without Using Domain Knowledge", <i>Big Data Mining and Analytics, 2025, vol.8, No.2, pp. 447-457.</i></autocolor></li>
 
   <li><autocolor><strong><u>R. Cong</u></strong>, O. Deng, S. Nishimura, A. Ogihara and Q. Jin, "Multiple Feature Selection Based on an Optimization Strategy for Causal Analysis of Health Data", <i>Health Information Science and Systems, vol.12, No. 52, 2024.</i></autocolor></li>
@@ -25,7 +25,9 @@
 
   <li><autocolor>J. Zhang, <strong><u>R. Cong</u></strong>, O. Deng, Y. Li, K. Lam and Q. Jin, "Analyzing Lifestyle and Behavior with Causal Discovery in Health Data from Wearable Devices and Self-Assessments", <i>2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom), Nara, Japan, 2024, pp. 1-6.</i></autocolor></li>
 
-  <li><autocolor><strong><u>R. Cong</u></strong>, J. Wu, S. Nishimura, A. Ogihara and Q. Jin, "Determining Important Features in Multidimensional Health Data for Individualized Precision Healthcare", <i>2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Abu Dhabi, United Arab Emirates, 2023, pp. 77-83.</i></autocolor></li>
+  <li><autocolor><strong><u>R. Cong</u></strong>, K. Tago and Q. Jin, "Investigating Cognitive Load in Multimedia Presentation Using an Eye Tracker", <i>The International Conference on Big data, IoT, and Cloud Computing (BIC2020), Aug. 17-19, 2020, Jeju, Korea.</i></autocolor></li>
+
+  <li><autocolor>金賀　駿、藤川　希美、<strong><u>叢　瑞晨</u></strong>、 村岡　慶裕 「障害者等用駐車場の利用状況把握システムおよびスマホアプリの試作と試運転」<i>『リハビリテーション・エンジニアリング』2024, 39 巻, 4 号, pp. 185-190.</i></autocolor></li>
 
   <li><autocolor><strong><u>R. Cong</u></strong>, Y. Ye, J. Wu, Y. Li, Y. Chen, Y. Bian, K. Tago, S. Nishimura, A. Ogihara and Q. Jin, "A Trustworthy Decentralized System for Health Data Integration and Sharing: Design and Experimental Validation", <i>HCI for Cybersecurity, Privacy and Trust. HCII 2023. Lecture Notes in Computer Science, vol. 14045, pp. 125-134.</i></autocolor></li>
 
@@ -43,4 +45,4 @@
 
   <li><autocolor><strong><u>R. Cong</u></strong>, K. Tago and Q. Jin, "Investigating Cognitive Load in Multimedia Presentation Using an Eye Tracker", <i>The International Conference on Big data, IoT, and Cloud Computing (BIC2020), Aug. 17-19, 2020, Jeju, Korea.</i></autocolor></li>
 
-</ol>
+</ul>

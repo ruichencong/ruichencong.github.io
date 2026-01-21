@@ -49,6 +49,7 @@ Thesis on "Individual-Initiated Access Control for Data Sharing with Blockchain"
 
 - **[Mar. 2020]** B.S. (Human Sciences), Waseda University
 
+GPA：3.72/4.0 (Top 10)
 Thesis on "Investigating Cognitive Load in Multimedia Presentation Using an Eye Tracker". Supervised by Prof. Qun Jin.
 
 ## News

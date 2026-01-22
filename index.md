@@ -37,7 +37,7 @@ Hello! I am an Assistant Professor at the Department of Human Informatics and Co
 
 ## Education
 
-- **[Mar. 2025]** Ph.D (Human Sciences), Waseda University
+- **[Mar. 2025]** Ph.D. (Human Sciences), Waseda University
 
 Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by Prof. Qun Jin, co-supervised by Prof. [Shoji Nishimura](https://w-rdb.waseda.jp/html/100000547_en.html) and Prof. [Atsushi Ogihara](https://w-rdb.waseda.jp/html/100000619_en.html). My doctoral program is supported by the Japan Science and Technology Agency Support for Pioneering Research Initiated by the Next Generation (SPRING) for three years.
 
@@ -50,9 +50,6 @@ Thesis on "Individual-Initiated Access Control for Data Sharing with Blockchain"
 GPA：3.72/4.0 (Top 10)
 Thesis on "Investigating Cognitive Load in Multimedia Presentation Using an Eye Tracker". Supervised by Prof. Qun Jin.
 
-## News
-
-- **[Jan. 2026]** We will host the ICAIHE 2026 in Tokyo, Japan!
 
 {% include_relative _includes/awards.md %}
 

@@ -15,6 +15,9 @@ canonical: https://ruichencong.github.io
 google_scholar: https://scholar.google.com/citations?user=su2AhCMAAAAJ&hl=ja
 # cv_link: assets/files/curriculum_vitae.pdf
 
+# News
+news: News
+
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png

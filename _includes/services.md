@@ -2,16 +2,18 @@
 
 <ul style="margin:0 0 5px;">
   
-  <li><autocolor>2026 International Conference on Artificial Intelligence for Health and Education (ICAIHE 2026), Local Organizing Chair, 2026.</autocolor></li>
-  <li><autocolor>2025 International Workshop on LLM and Agentic AI for Personalized Learning (LAAPL 2025), Program Chair, 2025.</autocolor></li>
-  <li><autocolor>2025 IEEE International Conference on Teaching, Assessment and Learning for Engineering (IEEE TALE 2025), Technical Program Committee Member, 2025.</autocolor></li>
-  <li><autocolor>The 1st International Workshop on AI-empowered Digital Health and Well-being Promotion (AI-DHWP), Program Chair, 2025.</autocolor></li>
-  <li><autocolor>The 10th IEEE Cyber Science and Technology Congress (CyberSciTech 2025), Organizing Committee Member, 2025.</autocolor></li>
-  <li><autocolor>2025 IEEE Global Communications Conference (GLOBECOM 2025) Selected Areas in Communications: Big Data, Technical program committee member, 2025.</autocolor></li>
-  <li><autocolor>Waseda University - Zhejiang Chinese Medical University Joint International Symposium on the Innovative Solution for Super Aging Society, Program committee member, 2024.</autocolor></li>
-  <li><autocolor>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys), Student Volunteer, 2024.</autocolor></li>
-  <li><autocolor>10th International Congress on Industrial and Applied Mathematics (ICIAM 2023 Tokyo), Student Volunteer, 2023.</autocolor></li>
-  <li><autocolor>IEEE International Conference on Communications (ICC 2022) IEEE Fourth International Workshop on Data Driven Intelligence for Networks and Systems (DDINS), Technical Program Committee member, 2022.</autocolor></li>
-  <li><autocolor>The 29th International Symposium on Quality of Service (IEEE/ACM IWQoS 2021), Student Volunteer, 2021.</autocolor></li>
+  <li><autocolor>[2026] Local Organizing Chair, ICAIHE 2026</autocolor></li>
+  <li><autocolor>[2025] Program Chair, LAAPL 2025</autocolor></li>
+  <li><autocolor>[2025] Technical Program Committee Member, IEEE TALE 2025</autocolor></li>
+  <li><autocolor>[2025] Program Chair, AI-DHWP 2026</autocolor></li>
+  <li><autocolor>[2025] Publicity Chair, IEEE CyberSciTech 2025</autocolor></li>
+  <li><autocolor>[2025] Technical Program Committee Member, GLOBECOM 2025, Selected Areas in Communications: Big Data</autocolor></li>
+  <li><autocolor>[2025-] Reviewer for <i>Health Information Science and Systems</i></autocolor></li>
+  <li><autocolor>[2025] Reviewer for <i>IEEE Transactions on Computational Social Systems</i></autocolor></li>
+  <li><autocolor>[2024] Student Volunteer, ACM MobiSys 2024</autocolor></li>
+  <li><autocolor>[2023] Student Volunteer, ICIAM 2023</autocolor></li>
+  <li><autocolor>[2022] Technical Program Committee Member, ICC 2022 Workshop (DDINS)</autocolor></li>
+  <li><autocolor>[2022-] Reviewer for <i>Multimedia Tools and Applications</i></autocolor></li>
+  <li><autocolor>[2021] Student Volunteer, IEEE/ACM IWQoS 2021</autocolor></li>
 
 </ul>

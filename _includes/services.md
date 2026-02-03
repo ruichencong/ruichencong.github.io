@@ -1,9 +1,11 @@
 ## Services
 
 <ul style="margin:0 0 5px;">
-  
+
+  <li><autocolor>[2026] Technical Program Committee Member, SmartEdu 2026</autocolor></li>
   <li><autocolor>[2026] Publication Chair, ICAIHE 2026</autocolor></li>
   <li><autocolor>[2026] Local Organizing Chair, ICAIHE 2026</autocolor></li>
+  <li><autocolor>[2026] Local Chair, BIOTC 2026</autocolor></li>
   <li><autocolor>[2025] Program Chair, LAAPL 2025</autocolor></li>
   <li><autocolor>[2025] Technical Program Committee Member, IEEE TALE 2025</autocolor></li>
   <li><autocolor>[2025] Program Chair, AI-DHWP 2026</autocolor></li>

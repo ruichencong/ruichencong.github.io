@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am an Assistant Professor at the Department of Human Informatics and Cognitive Sciences, Advanced Research Center for Human Sciences, Faculty of Human Sciences, Waseda University, Japan, in collaboration with Prof. [Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html) ([Networked Information Systems Laboratory (NISLAB)](https://nislab.human.waseda.ac.jp/). My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being. If you are interested in my research, please feel free to contact me. I am happy to communicate in Japanese, Chinese, or English!
+Hello! I am an Assistant Professor at the Department of Human Informatics and Cognitive Sciences, Advanced Research Center for Human Sciences, Faculty of Human Sciences, Waseda University, Japan, in collaboration with Prof. [Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html) ([Networked Information Systems Laboratory (NISLAB)](https://nislab.human.waseda.ac.jp/)). My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being. If you are interested in my research, please feel free to contact me. I am happy to communicate in Japanese, Chinese, or English!
 
 ## Research Interests
 

@@ -1,4 +1,4 @@
-## Services
+## Academic Services
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>[2026] Technical Program Committee Member, GLOBECOM 2026, Selected Areas in Communications: Big Data</autocolor></li>

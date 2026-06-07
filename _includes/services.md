@@ -1,7 +1,8 @@
 ## Services
 
 <ul style="margin:0 0 5px;">
-
+  <li><autocolor>[2026] Technical Program Committee Member, GLOBECOM 2026, Selected Areas in Communications: Big Data</autocolor></li>
+  <li><autocolor>[2026] Publicity Chair, IIDS ACBC 2026</autocolor></li>
   <li><autocolor>[2026] Publicity Chair, SmartEdu 2026</autocolor></li>
   <li><autocolor>[2026] Publication Chair, ICAIHE 2026</autocolor></li>
   <li><autocolor>[2026] Local Organizing Chair, ICAIHE 2026</autocolor></li>

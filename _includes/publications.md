@@ -1,15 +1,38 @@
-## Publications
+## Journal Publication (Peer Reviewed)
 
 <ul style="margin:0 0 5px;">
   <li><autocolor><strong><u>R. Cong</u></strong>, S. Nishimura, A. Ogihara and Q. Jin, "Exploratory and Interpretable Approach to Estimating Latent Health Risk Factors without Using Domain Knowledge", <i>Big Data Mining and Analytics</i>, 2025, vol.8, No.2, pp. 447-457.</autocolor></li>
 
   <li><autocolor><strong><u>R. Cong</u></strong>, O. Deng, S. Nishimura, A. Ogihara and Q. Jin, "Multiple Feature Selection Based on an Optimization Strategy for Causal Analysis of Health Data", <i>Health Information Science and Systems</i>, vol.12, No. 52, 2024.</autocolor></li>
 
-  <li><autocolor><strong><u>R. Cong</u></strong>, O. Deng, H. Yu, S. Nishimura, A. Ogihara and Q. Jin, "A Two-Stage Discovery-and-Validation Framework for Robust Causal Inference of Multivariate Health Data", <i>2025 IEEE Cyber Science and Technology Congress (CyberSciTech)</i>, Hakodate, Japan, 2025, pp. 536-542.</autocolor></li>
-
   <li><autocolor>P. Chung, <strong><u>R. Cong</u></strong>, L. Yao and Q. Jin, "Exploratory Research on the Potential of Human-AI Interaction for Mental Health: Building and Verifying an Experimental Environment Based on ChatGPT and Metaverse", <i>Applied Sciences</i>, Vol. 15, Issue 20, 11209, 2025.</autocolor></li>
 
-  <li><autocolor>M. Ri, <strong><u>R. Cong</u></strong> and Q. Jin, "Active Learning with Generative AI to Enhance Learning Experience: Experiment Design and Verification", <i>Proc. of The Joint Conference of The 24th International Conference on Web-Based Learning and The 10th International Symposium on Emerging Technologies for Education (ICWL-SETE 2025), 2025 International Workshop on LLM and Agentic AI for Personalized Learning (LAAPL 2025)</i>, Hong Kong, China, Nov. 30-Dec. 3, 2025. to appear.</autocolor></li>
+  <li><autocolor>金賀　駿、藤川　希美、<strong><u>叢　瑞晨</u></strong>、 村岡　慶裕 「障害者等用駐車場の利用状況把握システムおよびスマホアプリの試作と試運転」<i>『リハビリテーション・エンジニアリング』</i>2024, 39 巻, 4 号, pp. 185-190.</autocolor></li>
+
+  <li><autocolor><strong><u>R. Cong</u></strong>, K. Tago and Q. Jin, "Measurement and Verification of Cognitive Load in Multimedia Presentation Using an Eye Tracker", <i>Multimedia Tools and Applications</i>, vol. 81, pp. 26821-26835, 2022.</autocolor></li>
+
+  <li><autocolor>J. Wu, Y. Ye, M. Zhang, <strong><u>R. Cong</u></strong>, Y. Chen, P. Yu and Q. Guo, ”Marital Status as a Moderator: Exploring the Relationship Between Social Engagement and Depressive Symptoms in China’s Older Adult Population,” <i>Biomedical and Environmental Sciences</i>, vol. 37, pp. 1-16, 2024.</autocolor></li>
+  
+</ul>
+
+## Conference Proceedings (Peer Reviewed)
+<ul style="margin:0 0 5px;">
+
+  <li><autocolor>Z. Ren, <strong><u>R. Cong</u></strong> and Q. Jin, ”Governed Memory in Healthcare LLM Agents: Challenges, Solutions and New Perspectives”, 2026 International Conference on Artificial Intelligence for Health and Education (ICAIHE2026). (Accepted).</autocolor></li>
+  
+  <li><autocolor>F. Bo, <strong><u>R. Cong</u></strong> and Q. Jin, ”Integration of FFT-Based Periodic Features to Improve Predictive Performance in Time-Series Health Data”, 2026 International Conference on Artificial Intelligence for Health and Education (ICAIHE2026). (Accepted).</autocolor></li>
+
+  <li><autocolor>Z. Xu, <strong><u>R. Cong</u></strong> and Q. Jin, ”Examining Attention from the Perspective of Meditative States Using Physiological Indicators Towards Mental Well-Being”, 2026 International Conference on Artificial Intelligence for Health and Education (ICAIHE2026). (Accepted).</autocolor></li>
+
+  <li><autocolor>Y. Li, <strong><u>R. Cong</u></strong> and Q. Jin, ”Reflections on AI-Mediated Learning for Children Toward Child-Centered Design”, 2026 International Conference on Artificial Intelligence for Health and Education (ICAIHE2026). (Accepted)</autocolor></li>
+
+  <li><autocolor>H. Yu, J. Chen, <strong><u>R. Cong</u></strong>, Q. Jin and Y. Wu ”CPL-Clinic: An Automated Clinical Interview System via Human-Readable and Machine-Executable Clinical Pathway Language”, 2026 International Conference on Artificial Intelligence for Health and Education (ICAIHE2026). (Accepted).</autocolor></li>
+
+  <li><autocolor>C. Xu, M. Onoja, <strong><u>R. Cong</u></strong> and Q. Jin, ”Life-Course Risk Factors for Post-Injury Decline in Chinese Older Adults: An Interpretable Machine Learning Study”, 2026 International Conference on Artificial Intelligence for Health and Education (ICAIHE2026). (Accepted).</autocolor></li>
+  
+  <li><autocolor><strong><u>R. Cong</u></strong>, O. Deng, H. Yu, S. Nishimura, A. Ogihara and Q. Jin, "A Two-Stage Discovery-and-Validation Framework for Robust Causal Inference of Multivariate Health Data", <i>2025 IEEE Cyber Science and Technology Congress (CyberSciTech)</i>, Hakodate, Japan, 2025, pp. 536-542.</autocolor></li>
+
+  <li><autocolor>M. Ri, <strong><u>R. Cong</u></strong> and Q. Jin, "Active Learning with Generative AI to Enhance Learning Experience: Experiment Design and Verification", <i>Learning Technologies and Systems. SETE-ICWL 2025. Lecture Notes in Computer Science, vol 16425.</i>Springer, Singapore.</autocolor></li>
 
   <li><autocolor>J. Zhang, <strong><u>R. Cong</u></strong>, S. Nishimura, A. Ogihara and Q. Jin, "Causal Analysis of Health and Behaviors for Personalized Healthcare", <i>2025 IEEE Cyber Science and Technology Congress (CyberSciTech)</i>, Hakodate, Japan, 2025, pp. 522-528.</autocolor></li>
 
@@ -25,7 +48,7 @@
 
   <li><autocolor>J. Zhang, <strong><u>R. Cong</u></strong>, O. Deng, Y. Li, K. Lam and Q. Jin, "Analyzing Lifestyle and Behavior with Causal Discovery in Health Data from Wearable Devices and Self-Assessments", <i>2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)</i>, Nara, Japan, 2024, pp. 1-6.</autocolor></li>
 
-  <li><autocolor>金賀　駿、藤川　希美、<strong><u>叢　瑞晨</u></strong>、 村岡　慶裕 「障害者等用駐車場の利用状況把握システムおよびスマホアプリの試作と試運転」<i>『リハビリテーション・エンジニアリング』</i>2024, 39 巻, 4 号, pp. 185-190.</autocolor></li>
+  <li><autocolor>R. Cong, J. Wu, S. Nishimura, A. Ogihara and Q. Jin, ”Determining Important Features in Multidimensional Health Data for Individualized Precision Healthcare,” Proc. 2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Abu Dhabi, United Arab Emirates, 2023, pp. 77-83.</autocolor></li>
 
   <li><autocolor><strong><u>R. Cong</u></strong>, Y. Ye, J. Wu, Y. Li, Y. Chen, Y. Bian, K. Tago, S. Nishimura, A. Ogihara and Q. Jin, "A Trustworthy Decentralized System for Health Data Integration and Sharing: Design and Experimental Validation", <i>HCI for Cybersecurity, Privacy and Trust. HCII 2023. Lecture Notes in Computer Science</i>, vol. 14045, pp. 125-134.</autocolor></li>
 
@@ -36,8 +59,6 @@
   <li><autocolor><strong><u>R. Cong</u></strong>, S. Kanega and N. Fujikawa, "Infrared Distance Sensor-based Parking Space Reservation System for People with Disabilities", <i>2022 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)</i>, Falerna, Italy, 2022, pp. 1-5.</autocolor></li>
 
   <li><autocolor><strong><u>R. Cong</u></strong>, Y. Liu, Y. Wang, K. Tago, R. Li, H. Asaeda and Q. Jin, "Secure Interoperation of Blockchain and IPFS through Client Application Enabled by CP-ABE", <i>HCI for Cybersecurity, Privacy and Trust. HCII 2022. Lecture Notes in Computer Science</i>, vol. 13333, pp. 30-41.</autocolor></li>
-
-  <li><autocolor><strong><u>R. Cong</u></strong>, K. Tago and Q. Jin, "Measurement and Verification of Cognitive Load in Multimedia Presentation Using an Eye Tracker", <i>Multimedia Tools and Applications</i>, vol. 81, pp. 26821-26835, 2022.</autocolor></li>
 
   <li><autocolor><strong><u>R. Cong</u></strong>, Y. Liu, K. Tago, R. Li, H. Asaeda and Q. Jin, "Individual-Initiated Auditable Access Control for Privacy-Preserved IoT Data Sharing with Blockchain", <i>2021 IEEE International Conference on Communications Workshops (ICC Workshops)</i>, Montreal, QC, Canada, 2021, pp. 1-6.</autocolor></li>
 

@@ -48,7 +48,7 @@
 
   <li><autocolor>J. Zhang, <strong><u>R. Cong</u></strong>, O. Deng, Y. Li, K. Lam and Q. Jin, "Analyzing Lifestyle and Behavior with Causal Discovery in Health Data from Wearable Devices and Self-Assessments", <i>2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)</i>, Nara, Japan, 2024, pp. 1-6.</autocolor></li>
 
-  <li><autocolor>R. Cong, J. Wu, S. Nishimura, A. Ogihara and Q. Jin, ”Determining Important Features in Multidimensional Health Data for Individualized Precision Healthcare,” Proc. 2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Abu Dhabi, United Arab Emirates, 2023, pp. 77-83.</autocolor></li>
+  <li><autocolor><strong><u>R. Cong</u></strong>, J. Wu, S. Nishimura, A. Ogihara and Q. Jin, ”Determining Important Features in Multidimensional Health Data for Individualized Precision Healthcare,” Proc. 2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Abu Dhabi, United Arab Emirates, 2023, pp. 77-83.</autocolor></li>
 
   <li><autocolor><strong><u>R. Cong</u></strong>, Y. Ye, J. Wu, Y. Li, Y. Chen, Y. Bian, K. Tago, S. Nishimura, A. Ogihara and Q. Jin, "A Trustworthy Decentralized System for Health Data Integration and Sharing: Design and Experimental Validation", <i>HCI for Cybersecurity, Privacy and Trust. HCII 2023. Lecture Notes in Computer Science</i>, vol. 14045, pp. 125-134.</autocolor></li>
 
